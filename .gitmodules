@@ -1,0 +1,6 @@
+[submodule "flowkey"]
+	path = flowkey
+	url = git@github.com:jpsantosbembe/flowkey.git
+[submodule "flowkey-mobile"]
+	path = flowkey-mobile
+	url = git@github.com:jpsantosbembe/flowkey-mobile.git
