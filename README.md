@@ -15,7 +15,7 @@ Acesse o FlowKey Web aqui:
 ### FlowKey Mobile
 Baixe o aplicativo FlowKey para:
 
-- 📲 **Android:** [Download](https://bit.ly/FlowKeyAndroid)
+- 📲 **Android:** [Download](https://bit.ly/FlowKeyMobileAndroid)
 
 > **Nota:** As credenciais de acesso ao ambiente de teste estão disponíveis no fim deste documento.
 
